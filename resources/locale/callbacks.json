@@ -1,0 +1,7 @@
+{
+  "about_callback": "about",
+  "pricing_callback": "pricing",
+  "tech_callback": "tech",
+  "contact_callback": "contact",
+  "reset_callback": "reset"
+}

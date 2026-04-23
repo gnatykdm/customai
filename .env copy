@@ -1,0 +1,11 @@
+# Telegram configs
+TG_BOT_KEY=BOT
+
+# OpenAI configs
+OPEN_AI_KEY=KEY
+TEMPERATURE=TEMP(0-1)
+MAX_TOKENS=MAX_TOKENS
+MODEL_NAME=MODEL
+
+# Logger
+RUST_LOG=info
